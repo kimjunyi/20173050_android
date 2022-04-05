@@ -10,3 +10,13 @@
 <img width="300" height="570" src="./pic/3주차_네이버.jpg"></img>
 <img width="300" height="570" src="./pic/3주차_메인.jpg"></img>
 <img width="300" height="570" src="./pic/3주차_전화걸기.jpg"></img>
+
+
+
+## 5주차 과제(2022-04-05)
+
+<img width="400" height="300" src="./pic/1st.png"></img>
+<img width="400" height="300" src="./pic/1st-2.png"></img>
+<img width="400" height="300" src="./pic/2nd.png"></img>
+<img width="300" height="570" src="./pic/3rd.png"></img>
+<img width="300" height="570" src="./pic/4th.png"></img>
