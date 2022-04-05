@@ -17,11 +17,11 @@
 
 <img width="400" height="300" src="./pic/1st.png"></img>
 <img width="400" height="300" src="./pic/1st-2.png"></img>
-: activity_main.xml 소스파일 캡처화면
+<p> : activity_main.xml 소스파일 캡처화면 </p>
 
 <img width="400" height="300" src="./pic/2nd.png"></img>
-: Mainactivity.java 소스파일 캡처화면
+<p> : Mainactivity.java 소스파일 캡처화면 </p>
 
 <img width="300" height="570" src="./pic/3rd.png"></img>
 <img width="300" height="570" src="./pic/4th.png"></img>
-: 실행 결과 캡처화면 2개
+<p> : 실행 결과 캡처화면 2개 </p>
