@@ -30,11 +30,11 @@
 
 ## 6주차 과제(2022-04-12)
 
-<img width="350" height="570" src="./pic/width.png"></img>
+<img width="450" height="300" src="./pic/width.png"></img>
 <p> : • 한 개의 버튼을 클릭하면 
 <p> 1. Toast.makeText() 이용 하단에 width 크기 값을 표시 (Interger.toString() 함수 사용
     
-<img width="350" height="570" src="./pic/height.png"></img>
+<img width="450" height="300" src="./pic/height.png"></img>
 <p> : • 또 다른 버튼을 클릭하면 
 <p> 2. Toast.makeText() 하단에 height 크기 값을 표시 (Interger.toString() 함수 사용)    
 
