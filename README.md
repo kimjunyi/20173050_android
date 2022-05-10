@@ -38,7 +38,15 @@
 <p> : • 또 다른 버튼을 클릭하면 
 <p> 2. Toast.makeText() 하단에 height 크기 값을 표시 (Interger.toString() 함수 사용)    
 
-
+    
+    
+## 10주차 과제(2022-05-10)
+    
+<img width="300" height="570" src="./pic/10st_1.png"></img>
+<img width="300" height="570" src="./pic/10st_2.png"></img>
+<p>
+<img width="300" height="570" src="./pic/10st_3.png"></img>
+<img width="300" height="570" src="./pic/10st_4.png"></img>
 
 
 
