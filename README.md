@@ -51,6 +51,6 @@
 
 ## 11주차 과제(2022-05-17)
 
-<img width="300" height="570" src="./pic/11st.jpeg"></img>
+<img width="330" height="570" src="./pic/11st.jpeg"></img>
 
 
